@@ -10,7 +10,7 @@ This is my personal resume website, showcasing education, work experience, skill
 
 ##  Live Site
 Visit the site at:  
-**https://Rwema707.github.io/resume-website**
+**https://rwema707.github.io/resume_website/**
 
 ##  Contact
 - **Email:** r.gashumba@alustudent.com  
