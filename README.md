@@ -13,7 +13,7 @@ Visit the site at:
 **https://Rwema707.github.io/resume-website**
 
 ##  Contact
-- **Email:** chrisrwema90@gmail.com  
+- **Email:** r.gashumba@alustudent.com  
 - **Phone:** +250 780 228 801  
 - **Location:** Kigali, Rwanda
 
